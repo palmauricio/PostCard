@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="paulo.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="mmg-PB-aLA">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nazare.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="rSm-lr-2bR">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="0.0" y="0.0" width="400" height="600"/>
@@ -26,12 +26,12 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <variation key="default">
                             <mask key="subviews">
-                                <exclude reference="mmg-PB-aLA"/>
+                                <exclude reference="rSm-lr-2bR"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
                             <mask key="subviews">
-                                <include reference="mmg-PB-aLA"/>
+                                <include reference="rSm-lr-2bR"/>
                             </mask>
                         </variation>
                     </view>
@@ -156,6 +156,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="nazare.jpg" width="625" height="400"/>
         <image name="paulo.jpg" width="593" height="592"/>
     </resources>
 </document>
