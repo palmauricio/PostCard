@@ -13,6 +13,7 @@
 		7E03D23819F55A8F00B14281 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E03D23719F55A8F00B14281 /* Images.xcassets */; };
 		7E03D23B19F55A8F00B14281 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E03D23919F55A8F00B14281 /* LaunchScreen.xib */; };
 		7E03D24719F55A8F00B14281 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E03D24619F55A8F00B14281 /* PostcardTests.swift */; };
+		7E03D25119F670FF00B14281 /* paulo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E03D25019F670FE00B14281 /* paulo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7E03D24019F55A8F00B14281 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E03D24519F55A8F00B14281 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7E03D24619F55A8F00B14281 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		7E03D25019F670FE00B14281 /* paulo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paulo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		7E03D22E19F55A8F00B14281 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7E03D25019F670FE00B14281 /* paulo.jpg */,
 				7E03D22F19F55A8F00B14281 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7E03D23619F55A8F00B14281 /* Main.storyboard in Resources */,
+				7E03D25119F670FF00B14281 /* paulo.jpg in Resources */,
 				7E03D23B19F55A8F00B14281 /* LaunchScreen.xib in Resources */,
 				7E03D23819F55A8F00B14281 /* Images.xcassets in Resources */,
 			);
